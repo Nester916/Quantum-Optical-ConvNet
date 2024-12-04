@@ -20,7 +20,7 @@ from default_params import *
 from sklearn.metrics import confusion_matrix
 import numpy as np
 import torch
-from scipy import interp
+#from scipy import interp
 import matplotlib.pyplot as plt
 from itertools import cycle
 from sklearn.metrics import roc_curve, auc
